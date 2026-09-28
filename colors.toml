@@ -1,0 +1,36 @@
+mode = "light"
+
+# Monokai Pro Light, "Sun" filter. Shades run lightest to darkest:
+# #fdf7f3 #f8efe7 #eee5de #ded5d0 #d2c9c4 #beb5b3 #a59c9c #92898a #72696d #2c232e
+# Yellow is too faint on light paper, so Monokai Pro Light uses red for UI accents.
+accent = "#ce4770"
+selection = "#beb5b3"
+muted = "#a59c9c"
+
+background = "#f8efe7"
+dark_background = "#eee5de"
+darker_background = "#ded5d0"
+lighter_background = "#d2c9c4"
+
+foreground = "#2c232e"
+dark_foreground = "#92898a"
+light_foreground = "#72696d"
+bright_foreground = "#2c232e"
+
+# The Sun terminal palette puts orange in the blue slot and its blue in cyan.
+red = "#ce4770"
+yellow = "#b16803"
+orange = "#d4572b"
+green = "#218871"
+cyan = "#2473b6"
+blue = "#d4572b"
+magenta = "#6851a2"
+brown = "#6a2c16"
+
+# The official terminal palette repeats the accents as its bright colors.
+bright_red = "#ce4770"
+bright_yellow = "#b16803"
+bright_green = "#218871"
+bright_cyan = "#2473b6"
+bright_blue = "#d4572b"
+bright_magenta = "#6851a2"
