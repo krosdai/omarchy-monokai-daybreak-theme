@@ -1,6 +1,6 @@
 # Monokai Daybreak for Omarchy
 
-![Monokai Daybreak wallpaper: a coloured-pencil fox trotting through dewy grass as the sun rises over misty water](backgrounds/1-horizon.webp)
+![Monokai Daybreak on Omarchy: a terminal and Neovim beside the pencil daybreak wallpaper](screenshots/desktop.webp)
 
 Monokai Daybreak is an unofficial light Omarchy theme, installed as
 `monokai-daybreak`. It uses the [Monokai Pro](https://monokai.pro/) Light
