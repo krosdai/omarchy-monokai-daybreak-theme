@@ -74,5 +74,6 @@ run the tests.
 The wallpaper in `backgrounds/` was generated with Codex image generation from
 the palette above, as one low-contrast picture around a rose-mist `#ead9d2`.
 Its colours were then adjusted with ImageMagick so the sky sits exactly on that
-tone, gently behind the cream windows. Monokai Daybreak is not affiliated with
+tone, and the scene was blended into a flat `#ead9d2` outside the area Nightfall's
+horizon covers, so it runs seamlessly behind the cream windows. Monokai Daybreak is not affiliated with
 or endorsed by Monokai, the maker of Monokai Pro.
