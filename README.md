@@ -6,8 +6,9 @@ Monokai Daybreak is an unofficial light Omarchy theme, installed as
 `monokai-daybreak`. It uses the [Monokai Pro](https://monokai.pro/) Light
 palette with the "Sun" filter, and is the light twin of
 [Monokai Nightfall](https://github.com/krosdai/omarchy-monokai-nightfall-theme):
-the same fox watches the sun set in one and rise in the other. It ships only
-colours and wallpapers, so nothing in it runs code on your machine.
+the same fox watches the sun set in one and rise in the other. Omarchy uses
+only its colours, wallpapers and icon setting. The repository also carries its
+Python tests, but nothing runs them when you install or apply the theme.
 
 | Role | Colours |
 |------|---------|
