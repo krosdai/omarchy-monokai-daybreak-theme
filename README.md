@@ -72,6 +72,7 @@ theme would drop. When Omarchy is installed, they also resolve the palette with
 run the tests.
 
 The wallpaper in `backgrounds/` was generated with Codex image generation from
-the palette above, then blended into a flat `#f8efe7` outside the scene with
-ImageMagick, so it runs seamlessly behind windows. Monokai Daybreak is not
-affiliated with or endorsed by Monokai, the maker of Monokai Pro.
+the palette above, as one low-contrast picture around a rose-mist `#ead9d2`.
+Its colours were then adjusted with ImageMagick so the sky sits exactly on that
+tone, gently behind the cream windows. Monokai Daybreak is not affiliated with
+or endorsed by Monokai, the maker of Monokai Pro.
