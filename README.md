@@ -1,6 +1,6 @@
 # Monokai Daybreak for Omarchy
 
-![Monokai Daybreak on Omarchy: Neovim, a terminal and btop beside the default wallpaper of Pululu flying a kite at sunrise](screenshots/desktop.webp)
+![Monokai Daybreak on Omarchy: Neovim, a terminal and btop beside the default wallpaper of Pululu flying a kite in the grove at sunrise](screenshots/desktop.webp)
 
 Monokai Daybreak is an unofficial light Omarchy theme, installed as
 `monokai-daybreak`. It uses the [Monokai Pro](https://monokai.pro/) Light
@@ -76,10 +76,11 @@ generation from the palette above, as one low-contrast picture around a
 rose-mist `#ead9d2`. Its colours were then adjusted with ImageMagick so the sky
 sits exactly on that tone, and the scene was blended into a flat `#ead9d2`
 outside the area Nightfall's horizon covers, so it runs seamlessly behind the
-cream windows. The default wallpaper, `1-kite.webp`, shows the robot Pululu
-flying a leaf kite at sunrise with the flame spirit Spark riding on it. It was
-drawn at 2560×1440 with OpenAI's `gpt-image-2` from an earlier Codex scene,
-colour-matched to Nightfall's grove palette, blended into the same flat
-`#ead9d2` and placed at its native size on a 3840×2160 sheet of that colour, so
-the scene stays sharp and small. Monokai Daybreak is not affiliated with or endorsed by Monokai, the
-maker of Monokai Pro.
+cream windows. The default wallpaper, `1-kite.webp`, is Nightfall's grove at
+sunrise, where the robot Pululu flies a leaf kite with the flame spirit Spark
+riding on it. OpenAI's `gpt-image-2` drew it at 2560×1440 from Nightfall's
+default wallpaper, in the light and palette of the horizon wallpaper. It was
+blended into the same flat `#ead9d2` and sits at its native size on a
+3840×2160 sheet of that colour, so the scene stays sharp and small. Monokai
+Daybreak is not affiliated with or endorsed by Monokai, the maker of Monokai
+Pro.
