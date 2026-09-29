@@ -1,6 +1,6 @@
 # Monokai Daybreak for Omarchy
 
-![Monokai Daybreak on Omarchy: Neovim, a terminal and btop beside the pencil daybreak wallpaper](screenshots/desktop.webp)
+![Monokai Daybreak on Omarchy: Neovim, a terminal and btop beside the default wallpaper of Pululu flying a kite at sunrise](screenshots/desktop.webp)
 
 Monokai Daybreak is an unofficial light Omarchy theme, installed as
 `monokai-daybreak`. It uses the [Monokai Pro](https://monokai.pro/) Light
