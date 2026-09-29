@@ -71,9 +71,15 @@ theme would drop. When Omarchy is installed, they also resolve the palette with
 `omarchy-theme-color`, which only reads. Do not switch your desktop theme to
 run the tests.
 
-The wallpaper in `backgrounds/` was generated with Codex image generation from
-the palette above, as one low-contrast picture around a rose-mist `#ead9d2`.
-Its colours were then adjusted with ImageMagick so the sky sits exactly on that
-tone, and the scene was blended into a flat `#ead9d2` outside the area Nightfall's
-horizon covers, so it runs seamlessly behind the cream windows. Monokai Daybreak is not affiliated with
-or endorsed by Monokai, the maker of Monokai Pro.
+The horizon wallpaper, `2-horizon.webp`, was generated with Codex image
+generation from the palette above, as one low-contrast picture around a
+rose-mist `#ead9d2`. Its colours were then adjusted with ImageMagick so the sky
+sits exactly on that tone, and the scene was blended into a flat `#ead9d2`
+outside the area Nightfall's horizon covers, so it runs seamlessly behind the
+cream windows. The default wallpaper, `1-kite.webp`, shows the robot Pululu
+flying a leaf kite at sunrise with the flame spirit Spark riding on it. It was
+drawn at 2560×1440 with OpenAI's `gpt-image-2` from an earlier Codex scene,
+colour-matched to Nightfall's grove palette, blended into the same flat
+`#ead9d2` and placed at its native size on a 3840×2160 sheet of that colour, so
+the scene stays sharp and small. Monokai Daybreak is not affiliated with or endorsed by Monokai, the
+maker of Monokai Pro.
